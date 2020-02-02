@@ -3,7 +3,6 @@ package io.github.viniarck.books
 import io.getquill._
 import java.time.{LocalDateTime, ZoneId, ZoneOffset}
 import java.util.Date
-import io.github.viniarck.books.Models._
 
 object Serializers {
 
