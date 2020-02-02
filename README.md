@@ -5,3 +5,9 @@ REST API written in Scala with [Finch](https://github.com/finagle/finch) and [Qu
 ## DB UML
 
 ![img](./docs/books.png)
+
+## Build and run
+
+```
+sbt run
+```
